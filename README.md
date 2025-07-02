@@ -1,11 +1,39 @@
 <h1 align="center">&gt; Hello there! 🍎</h1>
+
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      
 <ul>
-  <li>Hi! I'm doneni — a software developer, computer engineer, and security researcher.</li>
-  <li>Majored in Software Engineering with an interdisciplinary focus on Security at <i>Soongsil University</i>.</li>
-  <li>Passionate about DevOps and cybersecurity.</li>
-  <li>Find me <a href="https://linktr.ee/doneni"><u>here</u></a>.</li>
+  <li>Hi! I'm doneni — a Software Developer, Computer Engineer, and Security Researcher.</li>
+  <li>Studied Software and Security at <i>Soongsil University</i> as a B.S. student.</li>
+  <li>Interested in DevOps and Cybersecurity.</li>
+  <li>You can reach me <a href="https://linktr.ee/doneni"><u>here</u></a>.</li>
 </ul>
-<hr>
+
+    </td>
+    <td valign="top" width="45%">
+
+<pre>
+            (___)
+    ____     
+  _\___ \  |\_/|
+  \     \ \/ , , \ ___
+  \__   \ \ ="= //|||\
+    |===  \/____)_)||||
+    \______|    | |||||
+        _/_|  | | =====
+      (_/  \_)_) 
+    _________________
+  (                _)
+    (__   '          )
+      (___    _____)
+          '--'
+</pre>
+
+    </td>
+  </tr>
+</table>
 <br>
 <br>
 ## My values

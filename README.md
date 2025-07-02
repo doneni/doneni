@@ -1,4 +1,4 @@
-<h1 align="center">&gt; 🍰 DONENI / LEE DONG-YEON </h1>
+<h1 align="center">&gt; DONENI / LEE DONGYEON ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ </h1>
 
 <table>
   <tr>
@@ -42,15 +42,20 @@
   </td>
   </tr>
 </table>
+
 <hr>
+
 <details>
-  <summary><b><i>GitHub Stats</i></b></summary>
+  <summary align="center">✧ <b><i>GitHub Stats</i></b> ✧</summary>
 
   <br/>
+
+  <div align="center">
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doneni)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doneni&layout=compact)
 
+  </div>
 </details>
 
 <br />

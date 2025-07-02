@@ -1,8 +1,13 @@
-## DONENI / LEE DONGYEON
-안녕하세요! 이동연입니다. 엔지니어링은 넓은 시야를 가지는 것이 중요하다는 생각으로, 다양한 분야에 대해서 알아야 한다고 생각합니다. 👀 멀티 플레이어가 되기 위해 공부하고 있습니다.
-<br />
-<br />
-<br />
+<h1 align="center">&gt; Hello there! 🍎</h1>
+<ul>
+  <li>Hi! I'm doneni — a software developer, computer engineer, and security researcher.</li>
+  <li>Majored in Software Engineering with an interdisciplinary focus on Security at <i>Soongsil University</i>.</li>
+  <li>Passionate about DevOps and cybersecurity.</li>
+  <li>Find me <a href="https://linktr.ee/doneni"><u>here</u></a>.</li>
+</ul>
+<hr>
+<br>
+<br>
 ## My values
 🌟 안전성과 안정성을 모두 고려하려고 노력합니다.<br />
 🌟 많은 대화를 나누고 싶습니다.<br />

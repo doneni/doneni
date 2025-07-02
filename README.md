@@ -1,4 +1,4 @@
-<h1 align="center">&gt; DONENI / LEE DONGYEON ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ </h1>
+<h1 align="center">DONENI / LEE DONGYEON ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆</h1>
 
 <table>
   <tr>

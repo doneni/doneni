@@ -48,7 +48,7 @@
 <details>
   <summary align="center">✧ <b><i>GitHub Stats</i></b> ✧</summary>
 
-  <br/>
+  <br>
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=doneni" /><br>
@@ -57,12 +57,13 @@
 </details>
 
 <br>
-<img src="./assets/bartleby.gif" width="300" alt="bartleby" align="center" />
-<br>
+<hr>
 
 ## Skills
 
-<img src="./assets/hamtaro.jpg" width="500" alt="hamtaro" align="right" /><br>
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
 ### 𖦹 Programming languages I use  
 <p>
@@ -94,4 +95,12 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
 
-<br>
+  </td>
+  <td valign="top" width="45%" align="center">
+
+<img src="./assets/hamtaro.jpg" width="300" alt="hamtaro" /><br>
+<img src="./assets/bartleby.gif" width="300" alt="bartleby" />
+
+  </td>
+  </tr>
+</table>

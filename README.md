@@ -56,13 +56,13 @@
   </div>
 </details>
 
-<br/>
+<br>
+<img src="./assets/bartleby.gif" width="300" alt="bartleby" align="center" />
+<br>
 
-## 🛠️ Skills
+## Skills
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
+<img src="./assets/hamtaro.jpg" width="500" alt="hamtaro" align="right" /><br>
 
 ### 𖦹 Programming languages I use  
 <p>
@@ -94,12 +94,4 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
 
-  </td>
-  <td valign="top" width="45%" align="center">
-
-<img src="./assets/hamtaro.jpg" width="300" alt="hamtaro" /><br>
-<img src="./assets/bartleby.gif" width="300" alt="bartleby" />
-
-  </td>
-  </tr>
-</table>
+<br>

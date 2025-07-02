@@ -1,8 +1,8 @@
 <h1 align="center">&gt; DONENI / LEE DONGYEON ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ </h1>
 
-<div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
-
-  <div style="flex: 1 1 350px; min-width: 300px; max-width: 600px;">
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
 <ul>
   <li>Hi! I'm doneni — a Software Developer, Computer Engineer, and Security Researcher.</li>
@@ -14,14 +14,13 @@
 <br/>
 
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Security meets stability — <b>both matter</b>.<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Engineering is also <i>empathy</i>.<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Love exploring possibilities and making things solid.
+  ✴︎ <b>Security meets stability</b> — both matter.<br/>
+  ✴︎ <i>Engineering is also empathy</i>.<br/>
+  ✴︎ Love exploring possibilities and making things solid.
 </p>
 
-  </div>
-
-  <div style="flex: 1 1 300px; text-align: center; min-width: 300px; max-width: 500px;">
+  </td>
+  <td valign="top" width="45%" align="center">
 
 <pre><code>
             (___)
@@ -40,8 +39,9 @@
           '--'
 </code></pre>
 
-  </div>
-</div>
+  </td>
+  </tr>
+</table>
 
 <hr>
 
@@ -51,20 +51,18 @@
   <br/>
 
   <div align="center">
-
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doneni)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doneni&layout=compact)
-
+    <img src="https://github-readme-stats.vercel.app/api?username=doneni" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doneni&layout=compact" />
   </div>
 </details>
 
 <br/>
 
-## Skills
+## 🛠️ Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-
-<div style="flex: 1 1 300px; min-width: 300px;">
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
 ### 𖦹 Programming languages I use  
 <p>
@@ -96,12 +94,12 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
 
-</div>
+  </td>
+  <td valign="top" width="45%" align="center">
 
-<div style="flex: 1 1 300px; text-align: center; min-width: 300px;">
+<img src="./assets/hamtaro.jpg" width="300" alt="hamtaro" /><br>
+<img src="./assets/bartleby.gif" width="300" alt="bartleby" />
 
-<img src="./assets/hamtaro.jpg" width="300" alt="hamtoro" />
-<img src="./assets/bartleby.gif" width="300" alt="hamtoro" />
-
-</div>
-</div>
+  </td>
+  </tr>
+</table>

@@ -4,8 +4,9 @@
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
 
-  <div style="flex: 1 1 300px; min-width: 250px; align="center" >
-<pre><code>
+  <div style="flex: 1 1 300px; min-width: 250px;  >
+
+<pre align="center"><code>
            ___       
           (___)      
    ____              

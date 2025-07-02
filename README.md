@@ -20,7 +20,7 @@
 </div>
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="30%">
 
 <pre><code>
             (___)

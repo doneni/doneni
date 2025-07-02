@@ -1,6 +1,6 @@
 <h1 align="center">DONENI / LEE DONGYEON ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆</h1>
 
-<table>
+<table border="0">
   <tr>
     <td valign="top" width="65%">
 

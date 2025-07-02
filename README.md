@@ -1,4 +1,4 @@
-<h1 align="center">&gt; Hello there! 🍰</h1>
+<h1 align="center">&gt; 🍰 DONENI / LEE DONG-YEON </h1>
 
 <table>
   <tr>
@@ -13,7 +13,7 @@
 
 <br/>
 
-<div style="margin-left: 25px; line-height: 1.6;">
+<div style="margin-left: 100px; line-height: 1.6;">
   Security meets stability — <b>both matter</b>.<br />
   Engineering is also <i>empathy</i>.<br />
   Love exploring possibilities and making things solid.
@@ -42,6 +42,16 @@
   </td>
   </tr>
 </table>
+<hr>
+<details>
+  <summary><b><i>GitHub Stats</i></b></summary>
+
+  <br/>
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doneni)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doneni&layout=compact)
+
+</details>
 
 <br />
 <br />
@@ -74,11 +84,3 @@
 </div>
 <br />
 
----
-
-<br />
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doneni)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doneni&layout=compact)
-
-<br />

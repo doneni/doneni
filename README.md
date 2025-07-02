@@ -101,6 +101,7 @@
 <div style="flex: 1 1 300px; text-align: center; min-width: 300px;">
 
 <img src="./assets/hamtaro.jpg" width="300" alt="hamtoro" />
+<img src="./assets/bartleby.gif" width="300" alt="hamtoro" />
 
 </div>
 </div>

@@ -15,8 +15,8 @@
 
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Security meets stability — <b>both matter</b>.<br />
-  &nbsp;&nbsp;&nbsp;&nbsp;❀ Engineering is also <i>empathy</i>.<br />
-  &nbsp;&nbsp;&nbsp;&nbsp;✧ Love exploring possibilities and making things solid.
+  &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Engineering is also <i>empathy</i>.<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Love exploring possibilities and making things solid.
 </p>
 
 </td>

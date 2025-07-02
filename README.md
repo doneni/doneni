@@ -94,8 +94,8 @@
 
   <div style="flex: 1 1 300px; text-align: center; min-width: 300px;">
 
-<img src="./assets/hamtaro.jpg" width="300" alt="hamtaro" /> 
-<img src="./assets/bartleby.gif" width="300" alt="bartleby" />
+<img src="./assets/hamtaro.jpg" height="300" alt="hamtaro" margin="10px"/> 
+<img src="./assets/bartleby.gif" height="300" alt="bartleby" margin="10px" />
 
   </div>
 </div>

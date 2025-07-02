@@ -59,9 +59,12 @@
 </details>
 
 <br />
-<br />
 
 ## Skills
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### Programming languages I use
 <p>
@@ -92,4 +95,16 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
+
+</td>
+<td valign="top" width="50%">
+
+  <img src="./assets/hamtaro.jpg" width="500" alt="hamtoro" />
+
+  </td>
+  </tr>
+</table>
+
+
+
 

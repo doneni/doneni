@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <h1 align="center">&gt; DONENI / LEE DONGYEON ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ </h1>
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">

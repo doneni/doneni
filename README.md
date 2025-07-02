@@ -1,8 +1,8 @@
 <h1 align="center">&gt; DONENI / LEE DONGYEON ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ </h1>
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
+<div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
+
+  <div style="flex: 1 1 350px; min-width: 300px; max-width: 600px;">
 
 <ul>
   <li>Hi! I'm doneni — a Software Developer, Computer Engineer, and Security Researcher.</li>
@@ -14,13 +14,14 @@
 <br/>
 
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Security meets stability — <b>both matter</b>.<br />
-  &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Engineering is also <i>empathy</i>.<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Security meets stability — <b>both matter</b>.<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Engineering is also <i>empathy</i>.<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Love exploring possibilities and making things solid.
 </p>
 
-</td>
-<td valign="top" width="30%">
+  </div>
+
+  <div style="flex: 1 1 300px; text-align: center; min-width: 300px; max-width: 500px;">
 
 <pre><code>
             (___)
@@ -39,9 +40,8 @@
           '--'
 </code></pre>
 
-  </td>
-  </tr>
-</table>
+  </div>
+</div>
 
 <hr>
 
@@ -52,21 +52,21 @@
 
   <div align="center">
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doneni)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doneni)  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doneni&layout=compact)
 
   </div>
 </details>
 
-<br />
+<br/>
 
 ## Skills
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 
-### Programming languages I use
+<div style="flex: 1 1 300px; min-width: 300px;">
+
+### 𖦹 Programming languages I use  
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-### Stack I use
+### 𖦹 Stack I use  
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-### Also worked with  
+### 𖦹 Also worked with  
 <p>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -96,15 +96,11 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
 
-</td>
-<td valign="top" width="50%">
+</div>
 
-  <img src="./assets/hamtaro.jpg" width="500" alt="hamtoro" />
+<div style="flex: 1 1 300px; text-align: center; min-width: 300px;">
 
-  </td>
-  </tr>
-</table>
+<img src="./assets/hamtaro.jpg" width="300" alt="hamtoro" />
 
-
-
-
+</div>
+</div>

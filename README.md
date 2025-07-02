@@ -7,17 +7,15 @@
 <ul>
   <li>Hi! I'm doneni — a Software Developer, Computer Engineer, and Security Researcher.</li>
   <li>Studied Software Engineering at <i>Soongsil University</i>, with an interdisciplinary focus on Security.</li>
-  <li>Interested in DevOps and Cybersecurity.</li>
+  <li>Interested in development and security in general.</li>
   <li>You can reach me <a href="https://linktr.ee/doneni"><u>here</u></a>.</li>
 </ul>
 
 <br/>
 
-<div style="margin-left: 100px; line-height: 1.6;">
-  Security meets stability — <b>both matter</b>.<br />
-  Engineering is also <i>empathy</i>.<br />
-  Love exploring possibilities and making things solid.
-</div>
+> Security meets stability — <b>both matter</b>.<br />
+> Engineering is also <i>empathy</i>.<br />
+> Love exploring possibilities and making things solid.
 
 </td>
 <td valign="top" width="30%">

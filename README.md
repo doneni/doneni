@@ -6,7 +6,7 @@
 
   <div style="flex: 1 1 300px; min-width: 250px;  >
 
-<pre align="center"><code>
+<pre><code>
            ___       
           (___)      
    ____              
@@ -98,8 +98,8 @@
 
   <div style="flex: 1 1 300px; text-align: center; min-width: 300px;">
 
-<img src="./assets/hamtaro.jpg" width="300" alt="hamtaro" />
-<img src="./assets/bartleby.gif" width="300" alt="bartleby" />
+<img src="./assets/hamtaro.jpg" width="300" alt="hamtaro" align="right"/>
+<img src="./assets/bartleby.gif" width="300" alt="bartleby" align="right"/>
 
   </div>
 </div>

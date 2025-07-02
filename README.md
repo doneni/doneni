@@ -1,8 +1,22 @@
-<h1 align="center">DONENI / LEE DONGYEON ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆</h1>
+<h1 align="center">&gt; DONENI / LEE DONGYEON ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆ </h1>
 
-<table border="0">
-  <tr>
-    <td valign="top" width="65%">
+<div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
+
+  <div style="flex: 1 1 300px; min-width: 250px;">
+<pre><code>
+     (___)
+  ____     
+_\___ \  |\_/|
+\     \ \/ , , \ ___
+ \__   \ \ ="= //|||
+   |===  \/____)_)|||
+   \______|    | ||||
+      _/_|  | | =====
+     (_/  \_)_) 
+</code></pre>
+  </div>
+
+  <div style="flex: 2 1 400px; min-width: 300px;">
 
 <ul>
   <li>Hi! I'm doneni — a Software Developer, Computer Engineer, and Security Researcher.</li>
@@ -11,60 +25,35 @@
   <li>You can reach me <a href="https://linktr.ee/doneni"><u>here</u></a>.</li>
 </ul>
 
-<br/>
-
 <p>
-  ✴︎ <b>Security meets stability</b> — both matter.<br/>
-  ✴︎ <i>Engineering is also empathy</i>.<br/>
-  ✴︎ Love exploring possibilities and making things solid.
+  &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Security meets stability — <b>both matter</b>.<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Engineering is also <i>empathy</i>.<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;✴︎ Love exploring possibilities and making things solid.
 </p>
 
-  </td>
-  <td valign="top" width="30">
-
-<pre><code>
-                     ___
-                    (___)
-            ____
-           _\___ \  |\_/|
-          \     \ \/ , , \ ___
-           \__   \ \ ="= //|||\
-            |===  \/____)_)||||
-            \______|    | |||||
-                _/_|  | | =====
-               (_/  \_)_)
-             _________________
-            (                _)
-            (__      '--'    )
-              (___    _____)
-                  '--'
-</code></pre>
-
-  </td>
-  </tr>
-</table>
+  </div>
+</div>
 
 <hr>
 
 <details>
   <summary align="center">✧ <b><i>GitHub Stats</i></b> ✧</summary>
 
-  <br>
+  <br/>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=doneni" /><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doneni&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=doneni"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doneni&layout=compact">
   </div>
 </details>
 
-<br>
-<hr>
+<br/>
 
 ## Skills
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+
+  <div style="flex: 1 1 300px; min-width: 300px;">
 
 ### 𖦹 Programming languages I use  
 <p>
@@ -96,12 +85,12 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
 
-  </td>
-  <td valign="top" width="45%" align="center">
+  </div>
 
-<img src="./assets/hamtaro.jpg" width="300" alt="hamtaro" /><br>
+  <div style="flex: 1 1 300px; text-align: center; min-width: 300px;">
+
+<img src="./assets/hamtaro.jpg" width="300" alt="hamtaro" />
 <img src="./assets/bartleby.gif" width="300" alt="bartleby" />
 
-  </td>
-  </tr>
-</table>
+  </div>
+</div>

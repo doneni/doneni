@@ -41,7 +41,7 @@
 
 ## Skills
 
-<div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
+<div>
 
   <div style="flex-direction: column; gap: 1rem; align-items: right;">
     <img src="./assets/hamtaro.jpg" width="220" alt="hamtaro" />

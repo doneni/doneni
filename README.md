@@ -43,12 +43,12 @@
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
 
-  <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 1rem; align-items: right;">
+  <div style="flex-direction: column; gap: 1rem; align-items: right;">
     <img src="./assets/hamtaro.jpg" width="220" alt="hamtaro" />
     <img src="./assets/bartleby.gif" width="220" alt="bartleby" />
   </div>
 
-  <div style="flex: 1 1 400px; min-width: 300px;">
+  <div style="min-width: 300px;">
   
   ### 𖦹 Programming languages I use  
   <p>

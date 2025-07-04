@@ -45,7 +45,7 @@
 
   <div style="flex-direction: column; gap: 1rem; align-items: right;">
     <img src="./assets/hamtaro.jpg" width="220" alt="hamtaro" />
-    <img src="./assets/bartleby.gif" width="220" alt="bartleby" />
+<!--     <img src="./assets/bartleby.gif" width="220" alt="bartleby" /> -->
   </div>
 
   <div style="min-width: 300px;">

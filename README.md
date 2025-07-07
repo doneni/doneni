@@ -44,14 +44,14 @@
 <table>
   <tr>
     <td valign="top" width="70%">
-      <h2>𖦹 Programming languages I use</h2>  
+      <h3>𖦹 Programming languages I use</h3>  
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       </p>
-      ### 𖦹 Stack I use  
+      <h3>𖦹 Stack I use</h3>  
       <p>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -61,7 +61,7 @@
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
         <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
       </p>
-      ### 𖦹 Also worked with  
+      <h3>𖦹 Also worked with</h3>  
       <p>
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -74,9 +74,9 @@
         <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
       </p>
     </td>
-    <td valign="top" align="right" width="40%">
-      <img src="./assets/hamtaro.jpg" width="300" alt="hamtaro"/><br/><br/>
-      <img src="./assets/bartleby.gif" width="300" alt="bartleby"/>
+    <td valign="top" align="right" width="30%">
+      <img src="./assets/hamtaro.jpg" width="320" alt="hamtaro"/><br/><br/>
+      <img src="./assets/bartleby.gif" width="320" alt="bartleby"/>
     </td>
     
   </tr>

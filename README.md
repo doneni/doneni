@@ -44,7 +44,7 @@
 <div>
 
   <div>
-    <img src="./assets/hamtaro.jpg" width="260" alt="hamtaro" align="right"/>
+    <img src="./assets/hamtaro.jpg" width="350" alt="hamtaro" align="right"/>
 <!--     <img src="./assets/bartleby.gif" width="220" alt="bartleby" /> -->
   </div>
 

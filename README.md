@@ -43,8 +43,8 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
-      ### 𖦹 Programming languages I use  
+    <td valign="top" width="70%">
+      <h2>𖦹 Programming languages I use</h2>  
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">

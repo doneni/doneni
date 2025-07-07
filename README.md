@@ -45,6 +45,7 @@
 
   <div>
     <img src="./assets/hamtaro.jpg" width="350" alt="hamtaro" align="right"/>
+    <br/>
   </div>
 
   <br/>

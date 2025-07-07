@@ -51,6 +51,7 @@
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       </p>
+      <br/>
       <h3>𖦹 Stack I use</h3>  
       <p>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -61,6 +62,7 @@
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
         <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
       </p>
+      <br/>
       <h3>𖦹 Also worked with</h3>  
       <p>
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">

@@ -41,11 +41,11 @@
 
 ## Skills
 
-<img src="./assets/hamtaro.jpg" width="350" alt="hamtaro"/>
+<img src="./assets/hamtaro.jpg" width="350" alt="hamtaro" align="right"/>
 
 <br><br>
 
-<img src="./assets/bartleby.gif" width="350" alt="bartleby"/>
+<img src="./assets/bartleby.gif" width="350" alt="bartleby" align="right"/>
 
 <div>
   

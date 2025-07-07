@@ -43,7 +43,7 @@
 
 <div>
 
-  <div style">
+  <div align="right">
     <img src="./assets/hamtaro.jpg" width="220" alt="hamtaro" />
 <!--     <img src="./assets/bartleby.gif" width="220" alt="bartleby" /> -->
   </div>

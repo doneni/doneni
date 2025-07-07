@@ -77,7 +77,7 @@
       </p>
     </td>
     <td valign="top" align="right" width="30%">
-      <img src="./assets/hamtaro.jpg" width="400" alt="hamtaro"/><br/><br/>
+      <img src="./assets/hamtaro.jpg" width="400" alt="hamtaro"/><br/>
       <img src="./assets/bartleby.gif" width="400" alt="bartleby"/>
     </td>
     

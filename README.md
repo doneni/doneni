@@ -41,14 +41,13 @@
 
 ## Skills
 
-<div>
-  <img src="./assets/hamtaro.jpg" width="350" alt="hamtaro" align="right"/>
-  
-  <div style="clear: right;"></div>
-  
-  <img src="./assets/bartleby.gif" width="350" alt="bartleby" align="right"/> 
+<img src="./assets/hamtaro.jpg" width="350" alt="hamtaro"/>
 
-  <div style="min-width: 300px;">
+<br><br>
+
+<img src="./assets/bartleby.gif" width="350" alt="bartleby"/>
+
+<div>
   
   ### 𖦹 Programming languages I use  
   <p>
@@ -81,7 +80,5 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
   </p>
-
-  </div>
 
 </div>

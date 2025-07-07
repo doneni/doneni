@@ -45,8 +45,11 @@
 
   <div>
     <img src="./assets/hamtaro.jpg" width="350" alt="hamtaro" align="right"/>
-    <img src="./assets/bartleby.gif" width="350" alt="bartleby" align="right"/>
   </div>
+
+  <div>
+    <img src="./assets/bartleby.gif" width="350" alt="bartleby" align="right"/>
+  </div>  
 
   <div style="min-width: 300px;">
   

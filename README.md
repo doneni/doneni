@@ -39,17 +39,6 @@
 
 <br/>
 
-<details>
-  <summary align="center">✧ <b><i>GitHub Stats</i></b> ✧</summary>
-
-  <br/>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=doneni"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doneni&layout=compact">
-  </div>
-</details>
-
 <br/>
 
 ## Skills
